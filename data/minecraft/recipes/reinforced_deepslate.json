@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X#X",
+        "###",
+        "X#X"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:deepslate"
+        },
+        "X": {
+            "item": "minecraft:end_stone_bricks"
+        }
+    },
+    "result": {
+        "item": "minecraft:reinforced_deepslate",
+        "count": 4
+    }
+}

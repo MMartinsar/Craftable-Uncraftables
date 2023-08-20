@@ -1,0 +1,1 @@
+tellraw @a {"text": "Craftable Uncraftables Datapack loaded successfully!", "color": "#FFFF55"}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        " * ",
+        "***"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:acacia_log"
+        },
+
+        "*": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:bell",
+        "count": 1
+    }
+}

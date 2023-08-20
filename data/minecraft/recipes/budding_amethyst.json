@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#*#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:amethyst_shard"
+        },
+
+        "*":{
+            "item": "minecraft:sculk_catalyst"
+        }
+    },
+    "result": {
+        "item": "minecraft:budding_amethyst",
+        "count": 1
+    }
+}
