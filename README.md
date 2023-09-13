@@ -7,111 +7,111 @@ It works for every version from 1.14 to the newest versions although some crafti
 ## Crafting recipes:
 
 Leather (with rotten flesh): </br>
-![Leather_rotten_flesh](/READMEImages/LeatherRotten)
+![Leather_rotten_flesh](/READMEImages/LeatherRotten.png)
 
 ---
 
 Leather (with dried kelp): </br>
-![Leather_dried_kelp](https://i.imgur.com/WGLgTJh.png)
+![Leather_dried_kelp](/READMEImages/LeatherDried.png)
 
 ---
 
 Bell: </br>
-![Bell](https://i.imgur.com/VB1jIUZ.png) </br>
+![Bell](/READMEImages/Bell.png) </br>
 (You can use every type of log excluding nether stems).
 
 ---
 
 Budding Amethyst: </br>
-![Budding_amethyst](https://i.imgur.com/zpOS4Z2.png)
+![Budding_amethyst](/READMEImages/BuddingAmethyst.png)
 
 ---
 
 Chainmail Armor Set: </br>
 
 * Helmet: </br>
-![Chainmail_helmet](https://i.imgur.com/8tMOF9S.png)
+![Chainmail_helmet](/READMEImages/Helmet.png)
 
 * Chestplate: </br>
-![Chainmail_chestplate](https://i.imgur.com/MfzMS8z.png)
+![Chainmail_chestplate](/READMEImages/Chestplate.png)
 
 * Leggings: </br>
-![Chainmail_leggings](https://i.imgur.com/fCqbLgI.png)
+![Chainmail_leggings](/READMEImages/Leggings.png)
 
 * Boots: </br>
-![Chainmail_boots](https://i.imgur.com/dt8Edv9.png)
+![Chainmail_boots](/READMEImages/Boots.png)
 
 ---
 
 Iron Block (blast furnace): </br>
-![Iron_block](https://i.imgur.com/av80iEg.png) </br>
+![Iron_block](/READMEImages/IronBlock.png) </br>
 I wanted to give furnaces a bit more use so I made that raw mineral blocks can be smelted directly to blocks in them.
 
 ---
 
 Copper Block (blast furnace): </br>
-![Copper_block](https://i.imgur.com/MVfPITo.png)
+![Copper_block](/READMEImages/CopperBlock.png)
 
 ---
 
 Gold Block (blast furnace): </br>
-![Gold_block](https://i.imgur.com/hwpJoNs.png)
+![Gold_block](/READMEImages/GoldBlock.png)
 
 ---
 
 Cobweb: </br>
-![Cobweb](https://i.imgur.com/7piYBMK.png) </br>
+![Cobweb](/READMEImages/Cobweb.png) </br>
 A bit of a Halloween fan myself so being able to easily have cobwebs in my survival world is cool :)
 
 ---
 
 String: </br>
-![String](https://i.imgur.com/3cPlp8L.png) </br>
+![String](/READMEImages/String.png) </br>
 Returns 5 strings, same amount as needed to craft one cobweb.
 
 ---
 
 Brown Mushroom Block: </br>
-![Brown_mushroom](https://i.imgur.com/IghW4Ur.png)
+![Brown_mushroom](/READMEImages/BrownMushroom.png)
 
 ---
 
 Red Mushroom Block: </br>
-![Red_mushroom](https://i.imgur.com/pz3cIsK.png)
+![Red_mushroom](/READMEImages/RedMushroom.png)
 
 ---
 
 Bee Nest: </br>
-![Bee_nest](https://i.imgur.com/T5CEMMm.png)
+![Bee_nest](/READMEImages/BeeNest.png)
 
 ---
 
 Reinforced Deepslate: </br>
-![Reinforced_deepslate](https://i.imgur.com/VIl4FwX.png)
+![Reinforced_deepslate](/READMEImages/ReinforcedDeepslate.png)
 
 ---
 
 Saddle: </br>
-![Saddle](https://i.imgur.com/VjnHuFU.png)
+![Saddle](/READMEImages/Saddle.png)
 
 ---
 
 Name Tag: </br>
-![Name_tag1](https://i.imgur.com/UERutey.png)
-![Name_tag2](https://i.imgur.com/bc0VcZd.png)
-![Name_tag3](https://i.imgur.com/W6L2a2a.png)
+![Name_tag1](/READMEImages/NameTag1.png) </br>
+![Name_tag2](/READMEImages/NameTag2.png) </br>
+![Name_tag3](/READMEImages/NameTag3.png)
 
 ---
 
 Iron Horse Armor: </br>
-![Iron_horse](https://i.imgur.com/hte8ewo.png)
+![Iron_horse](/READMEImages/IronHorse.png)
 
 ---
 
 Golden Horse Armor: </br>
-![Golden_horse](https://i.imgur.com/zY0WVV7.png)
+![Golden_horse](/READMEImages/GoldenHorse.png)
 
 ---
 
 Diamond Horse Armor: </br>
-![Diamond_horse](https://i.imgur.com/rdVewOv.png)
+![Diamond_horse](/READMEImages/DiamondHorse.png)
