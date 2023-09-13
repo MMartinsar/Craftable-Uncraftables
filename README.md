@@ -7,7 +7,7 @@ It works for every version from 1.14 to the newest versions although some crafti
 ## Crafting recipes:
 
 Leather (with rotten flesh): </br>
-![Leather_rotten_flesh](https://i.imgur.com/Luik3tr.png)
+![Leather_rotten_flesh](/READMEImages/LeatherRotten)
 
 ---
 
