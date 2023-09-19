@@ -1,6 +1,6 @@
 # Craftable Uncraftables (1.14+)
 
-This datapack adds new recipes for vanilla items that are not craftable in survival and some recipes to make useless items have another use.
+This datapack adds new recipes for vanilla items that are not craftable in survival and some recipes to make useless items have another use. You can visit this datapack's page on [Planet Minecraft](https://www.planetminecraft.com/data-pack/craftable-uncraftables-by-macro225-1-20/).
 
 It works for every version from 1.14 to the newest versions although some crafting recipes will not appear/work as they need items from newest versions.
 
