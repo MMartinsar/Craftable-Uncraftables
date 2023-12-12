@@ -7,111 +7,111 @@ It works for every version from 1.14 to the newest versions although some crafti
 ## Crafting recipes:
 
 Leather (with rotten flesh): </br>
-![Leather_rotten_flesh](/Images/LeatherRotten.png)
+![Leather_rotten_flesh](/images/LeatherRotten.png)
 
 ---
 
 Leather (with dried kelp): </br>
-![Leather_dried_kelp](/Images/LeatherDried.png)
+![Leather_dried_kelp](/images/LeatherDried.png)
 
 ---
 
 Bell: </br>
-![Bell](/Images/Bell.png) </br>
+![Bell](/images/Bell.png) </br>
 (You can use every type of log excluding nether stems).
 
 ---
 
 Budding Amethyst: </br>
-![Budding_amethyst](/Images/BuddingAmethyst.png)
+![Budding_amethyst](/images/BuddingAmethyst.png)
 
 ---
 
 Chainmail Armor Set: </br>
 
 * Helmet: </br>
-![Chainmail_helmet](/Images/Helmet.png)
+![Chainmail_helmet](/images/Helmet.png)
 
 * Chestplate: </br>
-![Chainmail_chestplate](/Images/Chestplate.png)
+![Chainmail_chestplate](/images/Chestplate.png)
 
 * Leggings: </br>
-![Chainmail_leggings](/Images/Leggings.png)
+![Chainmail_leggings](/images/Leggings.png)
 
 * Boots: </br>
-![Chainmail_boots](/Images/Boots.png)
+![Chainmail_boots](/images/Boots.png)
 
 ---
 
 Iron Block (blast furnace): </br>
-![Iron_block](/Images/IronBlock.png) </br>
+![Iron_block](/images/IronBlock.png) </br>
 I wanted to give furnaces a bit more use so I made that raw mineral blocks can be smelted directly to blocks in them.
 
 ---
 
 Copper Block (blast furnace): </br>
-![Copper_block](/Images/CopperBlock.png)
+![Copper_block](/images/CopperBlock.png)
 
 ---
 
 Gold Block (blast furnace): </br>
-![Gold_block](/Images/GoldBlock.png)
+![Gold_block](/images/GoldBlock.png)
 
 ---
 
 Cobweb: </br>
-![Cobweb](/Images/Cobweb.png) </br>
+![Cobweb](/images/Cobweb.png) </br>
 A bit of a Halloween fan myself so being able to easily have cobwebs in my survival world is cool :)
 
 ---
 
 String: </br>
-![String](/Images/String.png) </br>
+![String](/images/String.png) </br>
 Returns 5 strings, same amount as needed to craft one cobweb.
 
 ---
 
 Brown Mushroom Block: </br>
-![Brown_mushroom](/Images/BrownMushroom.png)
+![Brown_mushroom](/images/BrownMushroom.png)
 
 ---
 
 Red Mushroom Block: </br>
-![Red_mushroom](/Images/RedMushroom.png)
+![Red_mushroom](/images/RedMushroom.png)
 
 ---
 
 Bee Nest: </br>
-![Bee_nest](/Images/BeeNest.png)
+![Bee_nest](/images/BeeNest.png)
 
 ---
 
 Reinforced Deepslate: </br>
-![Reinforced_deepslate](/Images/ReinforcedDeepslate.png)
+![Reinforced_deepslate](/images/ReinforcedDeepslate.png)
 
 ---
 
 Saddle: </br>
-![Saddle](/Images/Saddle.png)
+![Saddle](/images/Saddle.png)
 
 ---
 
 Name Tag: </br>
-![Name_tag1](/Images/NameTag1.png) </br>
-![Name_tag2](/Images/NameTag2.png) </br>
-![Name_tag3](/Images/NameTag3.png)
+![Name_tag1](/images/NameTag1.png) </br>
+![Name_tag2](/images/NameTag2.png) </br>
+![Name_tag3](/images/NameTag3.png)
 
 ---
 
 Iron Horse Armor: </br>
-![Iron_horse](/Images/IronHorse.png)
+![Iron_horse](/images/IronHorse.png)
 
 ---
 
 Golden Horse Armor: </br>
-![Golden_horse](/Images/GoldenHorse.png)
+![Golden_horse](/images/GoldenHorse.png)
 
 ---
 
 Diamond Horse Armor: </br>
-![Diamond_horse](/Images/DiamondHorse.png)
+![Diamond_horse](/images/DiamondHorse.png)
