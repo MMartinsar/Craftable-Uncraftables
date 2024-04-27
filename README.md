@@ -6,112 +6,140 @@ It works for every version from 1.14 to the newest versions although some crafti
 
 ## Crafting recipes:
 
-Leather (with rotten flesh): </br>
+- **Leather (with rotten flesh):** </br>
+
 ![Leather_rotten_flesh](/images/LeatherRotten.png)
 
 ---
 
-Leather (with dried kelp): </br>
+- **Leather (with dried kelp):** </br>
+
 ![Leather_dried_kelp](/images/LeatherDried.png)
 
 ---
 
-Bell: </br>
+- **Bell:** </br>
+
 ![Bell](/images/Bell.png) </br>
-(You can use every type of log excluding nether stems).
+
+> [!Note]
+> You can use every type of log excluding nether stems.
 
 ---
 
-Budding Amethyst: </br>
+- **Budding Amethyst:** </br>
+
 ![Budding_amethyst](/images/BuddingAmethyst.png)
 
 ---
 
-Chainmail Armor Set: </br>
+- **Chainmail Armor Set:** 
 
-* Helmet: </br>
+</br>
+
+Helmet: </br>
 ![Chainmail_helmet](/images/Helmet.png)
 
-* Chestplate: </br>
+Chestplate: </br>
 ![Chainmail_chestplate](/images/Chestplate.png)
 
-* Leggings: </br>
+Leggings: </br>
 ![Chainmail_leggings](/images/Leggings.png)
 
-* Boots: </br>
+Boots: </br>
 ![Chainmail_boots](/images/Boots.png)
 
 ---
 
-Iron Block (blast furnace): </br>
+- **Iron Block (blast furnace):** </br>
+
 ![Iron_block](/images/IronBlock.png) </br>
-I wanted to give furnaces a bit more use so I made that raw mineral blocks can be smelted directly to blocks in them.
+
+> [!Note]
+> I wanted to give furnaces a bit more use so I made that raw mineral blocks can be smelted directly to blocks in them.
 
 ---
 
-Copper Block (blast furnace): </br>
+- **Copper Block (blast furnace):** </br>
+
 ![Copper_block](/images/CopperBlock.png)
 
 ---
 
-Gold Block (blast furnace): </br>
+- **Gold Block (blast furnace):** </br>
+
 ![Gold_block](/images/GoldBlock.png)
 
 ---
 
-Cobweb: </br>
+- **Cobweb:** </br>
+
 ![Cobweb](/images/Cobweb.png) </br>
-A bit of a Halloween fan myself so being able to easily have cobwebs in my survival world is cool :)
+
+> [!Note]
+> A bit of a Halloween fan myself so being able to easily have cobwebs in my survival world is cool :)
 
 ---
 
-String: </br>
+- **String:** </br>
+
 ![String](/images/String.png) </br>
-Returns 5 strings, same amount as needed to craft one cobweb.
+
+> [!Note]
+> Returns 5 strings, same amount as needed to craft one cobweb.
 
 ---
 
-Brown Mushroom Block: </br>
+- **Brown Mushroom Block:** </br>
+
 ![Brown_mushroom](/images/BrownMushroom.png)
 
 ---
 
-Red Mushroom Block: </br>
+- **Red Mushroom Block:** </br>
+
 ![Red_mushroom](/images/RedMushroom.png)
 
 ---
 
-Bee Nest: </br>
+- **Bee Nest:** </br>
+
 ![Bee_nest](/images/BeeNest.png)
 
 ---
 
-Reinforced Deepslate: </br>
+- **Reinforced Deepslate:** </br>
+
 ![Reinforced_deepslate](/images/ReinforcedDeepslate.png)
 
 ---
 
-Saddle: </br>
+- **Saddle:** </br>
+
 ![Saddle](/images/Saddle.png)
 
 ---
 
-Name Tag: </br>
+- **Name Tag:** </br>
+
 ![Name_tag1](/images/NameTag1.png) </br>
 ![Name_tag2](/images/NameTag2.png) </br>
 ![Name_tag3](/images/NameTag3.png)
 
 ---
 
-Iron Horse Armor: </br>
+- **Iron Horse Armor:** </br>
+
 ![Iron_horse](/images/IronHorse.png)
 
 ---
 
-Golden Horse Armor: </br>
+- **Golden Horse Armor:** </br>
+
 ![Golden_horse](/images/GoldenHorse.png)
 
 ---
 
-Diamond Horse Armor: </br>
+- **Diamond Horse Armor:** </br>
+
 ![Diamond_horse](/images/DiamondHorse.png)
